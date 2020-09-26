@@ -2,7 +2,7 @@
 
 ## Description
 
-_Duration: 2 Week Sprint_
+_Duration: 2 Week Sprint / Ongoing_
 
 I developed PowerliftsDB to address the problem of weight-lifters being able to conveninently log stats for their lifts. Weight lifters often use small notebooks to record their progress and reference in order to gauge what their next work-out should look like. PowerliftsDB allows users to record and review all of their stats in one place, as well as allowing users to view other users' stats. Users can also view a line graph generated from their history with a certain exercise at different rep ranges.
 
